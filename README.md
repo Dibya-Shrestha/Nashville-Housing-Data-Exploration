@@ -5,3 +5,4 @@ This project involves the standarization of a dataset containing Nashville housi
 
 # Data Sources
 - [Download SQL file here](https://github.com/Dibya-Shrestha/Nashville-Housing-Data-Exploration/blob/main/SQL%20Query%20NashVilleHousing%20Data%20Cleaning.sql)
+
